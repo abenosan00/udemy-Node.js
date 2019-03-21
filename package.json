@@ -1,0 +1,27 @@
+{
+  "name": "lecture037",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akinari Tsugo",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "cookie-parser": "^1.4.4",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abenosan00/udemy-Node.js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/abenosan00/udemy-Node.js/issues"
+  },
+  "homepage": "https://github.com/abenosan00/udemy-Node.js#readme"
+}

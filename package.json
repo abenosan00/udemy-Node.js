@@ -1,0 +1,26 @@
+{
+  "name": "udemy-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "cookie-parser": "^1.4.4",
+    "express-session": "^1.15.6",
+    "gulp": "^4.0.0",
+    "mysql": "^2.16.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abenosan00/udemy-Node.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abenosan00/udemy-Node.js/issues"
+  },
+  "homepage": "https://github.com/abenosan00/udemy-Node.js#readme"
+}
